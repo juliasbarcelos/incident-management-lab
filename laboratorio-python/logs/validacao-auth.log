@@ -1,0 +1,7 @@
+2026-10-15 19:32:32 INFO Login request received | user=ana.martins
+2026-10-15 19:32:32 INFO Authentication successful | user=ana.martins
+2026-10-15 19:32:32 INFO Access granted | user=ana.martins
+2026-10-15 19:32:32 INFO Login request received | user=bruno.costa
+2026-10-15 19:32:32 INFO Authentication successful | user=bruno.costa
+2026-10-15 19:32:32 WARNING Access denied | user=bruno.costa | missing=orders.read
+2026-10-15 19:32:32 WARNING HTTP 403 Forbidden (simulated)
