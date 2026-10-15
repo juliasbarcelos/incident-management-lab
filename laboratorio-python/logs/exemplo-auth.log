@@ -1,0 +1,11 @@
+2026-10-15 18:32:10 INFO Login request received | user=ana.martins
+2026-10-15 18:32:10 INFO Authentication successful | user=ana.martins
+2026-10-15 18:32:10 ERROR Permission validation failed
+2026-10-15 18:32:10 ERROR Role: Financeiro_Restrito
+2026-10-15 18:32:10 ERROR Missing permission: orders.read
+2026-10-15 18:32:10 ERROR HTTP 500 returned (simulated)
+
+
+2026-10-15 18:57:50 INFO Login request received | user=ana.martins
+2026-10-15 18:57:50 INFO Authentication successful | user=ana.martins
+2026-10-15 18:57:50 INFO Access granted
